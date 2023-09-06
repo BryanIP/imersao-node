@@ -13,3 +13,8 @@
 - Introdução ao Node.js
 - Conhecendo o gerenciador de pacotes NPM
 - Começando um projeto Node.js
+
+### Modulo 1 - Sincronia de funções Javascript
+- Introdução ao Capitulo
+- Entendendo o ciclo de vida de aplicações Javascript
+- Trabalhando com Callbacks
