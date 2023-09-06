@@ -18,3 +18,5 @@
 - Introdução ao Capítulo
 - Entendendo o ciclo de vida de aplicações Javascript
 - Trabalhando com Callbacks
+- Introdução a Promises
+- Refatorando Callbacks para Promises
