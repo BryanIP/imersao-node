@@ -20,3 +20,5 @@
 - Trabalhando com Callbacks
 - Introdução a Promises
 - Refatorando Callbacks para Promises
+- Introdução a resolução de Promises com async/await
+- Resolução de promises com Async/Await
