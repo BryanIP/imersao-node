@@ -61,10 +61,10 @@ async function main() {
       Nome: ${usuario.nome}
       Endereço: ${endereco.logradouro}, ${endereco.numero}
       Telefone: (${telefone.ddd}) ${telefone.telefone}
-      `)
+    `)
 
-      console.timeEnd('medida-promise')
-    } catch (error) {
+    console.timeEnd('medida-promise')
+  } catch (error) {
     console.error('DEU RUIM', error)
   }
 }
