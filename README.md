@@ -24,3 +24,7 @@
 - Resolução de promises com Async/Await
 - Introdução à manipulação de eventos com EventEmitter
 - Trabalhando com Eventos com a classe EventEmitter
+
+### Modulo 2 - Manipulação de listas
+- Introdução ao Capítulo
+- Manipulando listas com For/ForIn/ForOf
