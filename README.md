@@ -28,3 +28,4 @@
 ### Modulo 2 - Manipulação de listas
 - Introdução ao Capítulo
 - Manipulando listas com For/ForIn/ForOf
+- Criando nosso próprio Array.Map
